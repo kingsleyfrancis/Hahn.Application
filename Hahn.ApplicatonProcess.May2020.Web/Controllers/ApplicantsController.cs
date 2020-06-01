@@ -206,6 +206,7 @@ namespace Hahn.ApplicatonProcess.May2020.Web.Controllers
 
             _logger.LogInformation("Log information successful");
             return Ok();
+
         }
     }
 }
