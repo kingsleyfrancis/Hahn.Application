@@ -1,0 +1,12 @@
+D:\Projects\Visual Studio 2019\SP\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.May2020.Data\bin\Debug\netstandard2.0\Hahn.ApplicatonProcess.May2020.Data.deps.json
+D:\Projects\Visual Studio 2019\SP\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.May2020.Data\bin\Debug\netstandard2.0\Hahn.ApplicatonProcess.May2020.Data.dll
+D:\Projects\Visual Studio 2019\SP\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.May2020.Data\bin\Debug\netstandard2.0\Hahn.ApplicatonProcess.May2020.Data.pdb
+D:\Projects\Visual Studio 2019\SP\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.May2020.Data\bin\Debug\netstandard2.0\Hahn.ApplicatonProcess.May2020.Domain.dll
+D:\Projects\Visual Studio 2019\SP\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.May2020.Data\bin\Debug\netstandard2.0\Hahn.ApplicatonProcess.May2020.Domain.pdb
+D:\Projects\Visual Studio 2019\SP\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.May2020.Data\obj\Debug\netstandard2.0\Hahn.ApplicatonProcess.May2020.Data.csprojAssemblyReference.cache
+D:\Projects\Visual Studio 2019\SP\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.May2020.Data\obj\Debug\netstandard2.0\Hahn.ApplicatonProcess.May2020.Data.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio 2019\SP\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.May2020.Data\obj\Debug\netstandard2.0\Hahn.ApplicatonProcess.May2020.Data.AssemblyInfo.cs
+D:\Projects\Visual Studio 2019\SP\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.May2020.Data\obj\Debug\netstandard2.0\Hahn.ApplicatonProcess.May2020.Data.csproj.CopyComplete
+D:\Projects\Visual Studio 2019\SP\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.May2020.Data\obj\Debug\netstandard2.0\Hahn.ApplicatonProcess.May2020.Data.dll
+D:\Projects\Visual Studio 2019\SP\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.May2020.Data\obj\Debug\netstandard2.0\Hahn.ApplicatonProcess.May2020.Data.pdb
+D:\Projects\Visual Studio 2019\SP\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.May2020.Data\obj\Debug\netstandard2.0\Hahn.ApplicatonProcess.May2020.Data.csproj.CoreCompileInputs.cache

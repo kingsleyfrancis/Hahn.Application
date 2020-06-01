@@ -1,0 +1,9 @@
+D:\Projects\Visual Studio 2019\SP\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.May2020.Domain\bin\Debug\netstandard2.0\Hahn.ApplicatonProcess.May2020.Domain.deps.json
+D:\Projects\Visual Studio 2019\SP\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.May2020.Domain\bin\Debug\netstandard2.0\Hahn.ApplicatonProcess.May2020.Domain.dll
+D:\Projects\Visual Studio 2019\SP\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.May2020.Domain\bin\Debug\netstandard2.0\Hahn.ApplicatonProcess.May2020.Domain.pdb
+D:\Projects\Visual Studio 2019\SP\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.May2020.Domain\obj\Debug\netstandard2.0\Hahn.ApplicatonProcess.May2020.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio 2019\SP\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.May2020.Domain\obj\Debug\netstandard2.0\Hahn.ApplicatonProcess.May2020.Domain.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio 2019\SP\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.May2020.Domain\obj\Debug\netstandard2.0\Hahn.ApplicatonProcess.May2020.Domain.AssemblyInfo.cs
+D:\Projects\Visual Studio 2019\SP\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.May2020.Domain\obj\Debug\netstandard2.0\Hahn.ApplicatonProcess.May2020.Domain.dll
+D:\Projects\Visual Studio 2019\SP\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.May2020.Domain\obj\Debug\netstandard2.0\Hahn.ApplicatonProcess.May2020.Domain.pdb
+D:\Projects\Visual Studio 2019\SP\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.May2020.Domain\obj\Debug\netstandard2.0\Hahn.ApplicatonProcess.May2020.Domain.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ofmjzjuogLkN5aUT0CzfNJbCi7PQpEbn26+Li3Nql2wYR9mIkiaNYGslX6+0EcWCdIRN8LwEEh+6g1zYwk05hg==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Visual Studio 2019\\SP\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.May2020.Domain\\Hahn.ApplicatonProcess.May2020.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL G7 15\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\DELL G7 15\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

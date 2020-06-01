@@ -1,0 +1,27 @@
+<template>
+  <require from="./styles.css"></require>
+  <require from='./applicant-list.html'></require>
+  <header class="clearfix">
+    <nav class="navbar navbar-light bg-light border-bottom fixed-top" role='navigation'>
+        <a class="navbar-brand" href="#">
+          <i class="fa fa-user"></i>
+          <span>${title}</span>
+        </a>
+        <ul class="nav pull-right">
+          <li class="nav-item">
+            <a class="nav-link active" route-href="route: create">Create Applicant</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" route-href="route: applicants">Applicants</a>
+          </li>
+      </ul>
+    </nav>
+  </header>
+  
+<loading-indicator loading.bind='router.isNavigating || api.isRequesting'></loading-indicator>
+  <div class="container-md">
+    <div class="row">
+      <router-view class="col-sm-10 offset-sm-1 offset-md-1 col-md-10"></router-view>
+    </div>
+  </div>
+</template>

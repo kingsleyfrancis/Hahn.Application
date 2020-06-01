@@ -1,0 +1,39 @@
+<template>
+  <div class="card">
+    <div class="card-header text-white bg-primary">
+      Create Applicant
+    </div>
+    <div class="card-body">
+      <form role="form" submit.trigger="newApplicant()">
+        <div class="form-group">
+          <label for="name">First Name</label>
+          <input type="text" class="form-control" id="name" value.bind="applicant.name">
+        </div>
+        <div class="form-group">
+          <label for="familyname">Family Name</label>
+          <input type="text" class="form-control" id="familyname" value.bind="applicant.familyName">
+        </div>
+        <div class="form-group">
+          <label for="emailAddress">Email Address</label>
+          <input type="text" class="form-control" id="emailAddress" value.bind="applicant.emailAddress">
+        </div>
+        <div class="form-group">
+          <label for="countryOfOrigin">Country of Orgin</label>
+          <input type="text" class="form-control" id="countryOfOrigin" value.bind="applicant.countryOfOrigin">
+        </div>
+        <div class="form-group">
+          <label for="age">Age</label>
+          <input type="number" class="form-control" id="age" value.bind="applicant.age">
+        </div>
+        <div class="form-group">
+          <label for="address">Address</label>
+          <textarea class="form-control" id="address" rows="3" value.bind="applicant.address"></textarea>
+        </div>
+        <div>
+          <button type="submit" class="btn btn-primary" disabled.bind="!canSave">Create Applicant</button>
+          <button type="reset" class="btn btn-default" disabled.bind="!canClear">Reset</button>
+        </div>
+    </div>
+  </div>
+  </form>
+</template>

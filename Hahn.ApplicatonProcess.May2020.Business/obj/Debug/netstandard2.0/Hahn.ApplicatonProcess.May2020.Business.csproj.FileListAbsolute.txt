@@ -1,0 +1,14 @@
+D:\Projects\Visual Studio 2019\SP\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.May2020.Business\bin\Debug\netstandard2.0\Hahn.ApplicatonProcess.May2020.Business.deps.json
+D:\Projects\Visual Studio 2019\SP\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.May2020.Business\bin\Debug\netstandard2.0\Hahn.ApplicatonProcess.May2020.Business.dll
+D:\Projects\Visual Studio 2019\SP\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.May2020.Business\bin\Debug\netstandard2.0\Hahn.ApplicatonProcess.May2020.Business.pdb
+D:\Projects\Visual Studio 2019\SP\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.May2020.Business\bin\Debug\netstandard2.0\Hahn.ApplicatonProcess.May2020.Data.dll
+D:\Projects\Visual Studio 2019\SP\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.May2020.Business\bin\Debug\netstandard2.0\Hahn.ApplicatonProcess.May2020.Domain.dll
+D:\Projects\Visual Studio 2019\SP\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.May2020.Business\bin\Debug\netstandard2.0\Hahn.ApplicatonProcess.May2020.Data.pdb
+D:\Projects\Visual Studio 2019\SP\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.May2020.Business\bin\Debug\netstandard2.0\Hahn.ApplicatonProcess.May2020.Domain.pdb
+D:\Projects\Visual Studio 2019\SP\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.May2020.Business\obj\Debug\netstandard2.0\Hahn.ApplicatonProcess.May2020.Business.csprojAssemblyReference.cache
+D:\Projects\Visual Studio 2019\SP\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.May2020.Business\obj\Debug\netstandard2.0\Hahn.ApplicatonProcess.May2020.Business.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio 2019\SP\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.May2020.Business\obj\Debug\netstandard2.0\Hahn.ApplicatonProcess.May2020.Business.AssemblyInfo.cs
+D:\Projects\Visual Studio 2019\SP\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.May2020.Business\obj\Debug\netstandard2.0\Hahn.ApplicatonProcess.May2020.Business.csproj.CopyComplete
+D:\Projects\Visual Studio 2019\SP\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.May2020.Business\obj\Debug\netstandard2.0\Hahn.ApplicatonProcess.May2020.Business.dll
+D:\Projects\Visual Studio 2019\SP\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.May2020.Business\obj\Debug\netstandard2.0\Hahn.ApplicatonProcess.May2020.Business.pdb
+D:\Projects\Visual Studio 2019\SP\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.May2020.Business\obj\Debug\netstandard2.0\Hahn.ApplicatonProcess.May2020.Business.csproj.CoreCompileInputs.cache

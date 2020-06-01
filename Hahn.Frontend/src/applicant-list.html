@@ -1,0 +1,34 @@
+<template>
+	<div class="applicant-list">
+    <table class="table">
+      <thead>
+        <tr>
+          <th scope="col">First Name</th>
+          <th scope="col">Family Name</th>
+          <th scope="col">Email Address</th>
+          <th scope="col">Age</th>
+          <th scope="col">Country Of Origin</th>
+          <th scope="col">Hired</th>
+          <th scope="col">Address</th>
+          <th scope="col">Action</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr repeat.for="applicant of applicants">
+          <td>${applicant.name}</td>
+          <td>${applicant.familyName}</td>
+          <td>${applicant.emailAddress}</td>          
+          <td>${applicant.age}</td>
+          <td>${applicant.countryOfOrigin}</td>
+          <td>${applicant.hired ? 'True' : 'False'}</td>
+          <td>${applicant.address}</td>
+          <td>
+            <a class="btn btn-primary" route-href="route: applicant; params.bind: {id:applicant.id}" click.delegate="select(applicant)">
+              View Detail
+            </a>
+          </td>
+        </tr>        
+      </tbody>
+    </table>
+	</div>
+</template>
